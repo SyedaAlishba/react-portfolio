@@ -20,7 +20,7 @@ import npm from "./assets/techstack/npm.png";
 import postman from "./assets/techstack/postman.png";
 import figma from "./assets/techstack/figma.png";
 // Porject Images
-import projectImage1 from "./assets/projects/project1.jpg";
+import projectImage1 from "./assets/noImgAvailable.jpg";
 import projectImage2 from "./assets/projects/project2.jpg";
 import projectImage3 from "./assets/projects/project3.jpg";
 import projectImage4 from "./assets/projects/project4.jpg";
@@ -109,12 +109,12 @@ export const projectDetails = [
     image: projectImage1,
     description: `This is a dashboard that i created for admins to manage their site and perform bunch of features.`,
     techstack: "React, Mui, scss",
-    previewLink: "https://google.com",
+    previewLink: "https://dashboardalishba.vercel.app/",
     githubLink: "https://github.com/SyedaAlishba/dashboard",
   },
   {
     title: "Browser tabs clone",
-    image: projectImage2,
+    image: projectImage1,
     description: `This project uses the idea of chrome tabs, you can create new tabs with any name and also close them`,
     techstack: "CSS, React, Mui, Vite",
     previewLink: "https://google.com",
